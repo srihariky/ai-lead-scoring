@@ -1,53 +1,11 @@
-nametitlecompanycompany_stagelocationhubuses_invitropublished_recent
-Dr Alice SmithDirector of ToxicologyBioGenXSeries BCambridge MAyesyesyes
-Dr Bob ChenSenior ScientistNeoPharmaSeedSan Diego CAnonono
-Dr Carol WhiteHead of Safety AssessmentLiveraBioSeries ABoston MAyesyesyes
-Dr Dan MillerJunior ScientistEarlyBioPre-seedAustin TXnonono
-Dr Eva JohnsonVP Preclinical SafetyPharmaNextSeries BBaselyesyesyes
-Dr Frank LeeScientistCellInnovateSeries ALondonnoyesno
-Dr Grace KimSenior ScientistLiverTechSeedBoston MAyesnoyes
-Dr Henry BrownDirector of Preclinical SafetyToxBioSeries BSan Franciscoyesyesyes
-Dr Ian ParkerHead of ToxicologyToxoMedSeries ANew Yorkyesyesno
-Dr Julia AdamsVP Safety AssessmentPharmaTechSeries BBoston MAyesyesyes
-Dr Kevin WuSenior ScientistBioWorksSeedAustin TXnonono
-Dr Laura GreenJunior ScientistNeoBioPre-seedDenver COnonono
-Dr Michael ChenDirector of Preclinical SafetyLiverXSeries BCambridge MAyesyesyes
-Dr Nancy LeeScientistCellTheraSeries ALondonnoyesno
-Dr Oliver SmithHead of ToxicologyToxicaSeries ABoston MAyesyesyes
-Dr Paula BrownVP Preclinical SafetyPharmaNextSeries BBaselyesyesyes
-Dr Quentin WuSenior ScientistBioNovaSeedChicago ILnonoyes
-Dr Rachel AdamsJunior ScientistNeoPharmaPre-seedAustin TXnonono
-Dr Sam WhiteDirector of ToxicologyToxoMedSeries BCambridge MAyesyesyes
-Dr Tina GreenScientistLiveraBioSeries ALondonnoyesno
-Dr Umar KhanHead of Safety AssessmentPharmaTechSeries ABoston MAyesyesyes
-Dr Victor LeeVP Preclinical SafetyCellInnovateSeries BBaselyesyesyes
-Dr Wendy ChenSenior ScientistBioGenXSeedSan Diego CAnonono
-Dr Xavier BrownJunior ScientistEarlyBioPre-seedAustin TXnonono
-Dr Yolanda SmithDirector of Preclinical SafetyLiverXSeries BCambridge MAyesyesyes
-Dr Zachary AdamsScientistCellTheraSeries ALondonnoyesno
-Dr Amy ParkerHead of ToxicologyToxicaSeries ABoston MAyesyesyes
-Dr Brian LeeVP Safety AssessmentPharmaNextSeries BBaselyesyesyes
-Dr Carla WuSenior ScientistBioWorksSeedChicago ILnonoyes
-Dr Daniel GreenJunior ScientistNeoBioPre-seedDenver COnonono
-Dr Emma ChenDirector of ToxicologyToxoMedSeries BCambridge MAyesyesyes
-Dr Felix SmithScientistLiverXSeries ALondonnoyesno
-Dr Gina BrownHead of Safety AssessmentPharmaTechSeries ABoston MAyesyesyes
-Dr Harry LeeVP Preclinical SafetyCellInnovateSeries BBaselyesyesyes
-Dr Iris AdamsSenior ScientistBioGenXSeedSan Diego CAnonono
-Dr Jack ParkerJunior ScientistEarlyBioPre-seedAustin TXnonono
-Dr Karen WhiteDirector of Preclinical SafetyLiverXSeries BCambridge MAyesyesyes
-Dr Liam GreenScientistCellTheraSeries ALondonnoyesno
-Dr Mia ChenHead of ToxicologyToxicaSeries ABoston MAyesyesyes
-Dr Noah BrownVP Safety AssessmentPharmaNextSeries BBaselyesyesyes
-Dr Olivia WuSenior ScientistBioWorksSeedChicago ILnonoyes
-Dr Peter SmithJunior ScientistNeoBioPre-seedDenver COnonono
-Dr Quinn LeeDirector of ToxicologyToxoMedSeries BCambridge MAyesyesyes
-Dr Riley AdamsScientistLiverXSeries ALondonnoyesno
-Dr Sophia GreenHead of Safety AssessmentPharmaTechSeries ABoston MAyesyesyes
-Dr Thomas LeeVP Preclinical SafetyCellInnovateSeries BBaselyesyesyes
-Dr Ursula ChenSenior ScientistBioGenXSeedSan Diego CAnonono
-Dr Victor ParkerJunior ScientistEarlyBioPre-seedAustin TXnonono
-Dr Wendy WhiteDirector of Preclinical SafetyLiverXSeries BCambridge MAyesyesyes
-Dr Xavier GreenScientistCellTheraSeries ALondonnoyesno
-Dr Yolanda LeeHead of ToxicologyToxicaSeries ABoston MAyesyesyes
-Dr Zachary BrownVP Safety AssessmentPharmaNextSeries BBaselyesyesyes
+name,title,company,person_location,company_hq,funding_stage,publication_topic,publication_year,uses_invitro,email,work_mode,company_in_hub,probability_score,rank
+Dr John Smith,Director of Toxicology,ABC Biotech,Boston,Cambridge MA,Series B,Drug Induced Liver Injury,2024,Yes,dr.john@abcbiotech.com,Remote,True,100,1
+Dr Michael Brown,VP Preclinical Safety,OncoNova,Bay Area,Bay Area,Series B,Liver Safety Biomarkers,2024,Yes,dr.michael@onconova.com,Onsite,True,100,2
+Dr Priya Nair,Head of Translational Safety,GenovaBio,Cambridge MA,Cambridge MA,Series B,Drug Induced Liver Injury,2024,Yes,dr.priya@genovabio.com,Onsite,True,100,3
+Dr Andreas Müller,Director of Investigative Toxicology,BioHelix,Munich,Basel,Series A,Drug Metabolism and Liver Injury,2024,Yes,dr.andreas@biohelix.eu,Remote,True,100,4
+Dr Robert Wilson,Director of Safety Pharmacology,CardioLife,Boston,Boston,IPO,Organ-on-Chip Liver Models,2023,Yes,dr.robert@cardiolife.com,Onsite,True,100,5
+Dr Emily Chen,Head of Safety Assessment,NeoPharma,Basel,Basel,Series A,Hepatic Toxicity Models,2023,Yes,dr.emily@neopharma.com,Onsite,True,65,6
+Dr Laura Martinez,Senior Toxicologist,HepatoTech,San Diego,San Diego,Series C,In Vitro Hepatic Models,2022,Yes,dr.laura@hepatotech.com,Onsite,True,35,7
+Dr Sarah Patel,Principal Scientist,TheraGen,London,UK Golden Triangle,Private,3D Cell Culture for Toxicology,2023,Yes,dr.sarah@theragen.co.uk,Remote,True,15,8
+Jane Doe,Junior Scientist,StartupX,Texas,San Diego,Seed,Cell Culture Methods,2021,No,jane.doe@startupx.io,Remote,True,0,9
+Dr Kevin Lee,Scientist,EarlyBio,Toronto,Toronto,Pre-Seed,Toxicology Screening,2021,No,dr.kevin@earlybio.ai,Onsite,False,0,10
