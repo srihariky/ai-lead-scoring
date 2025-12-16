@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from scoring.scorer import calculate_score
 
 # ----------------------------
@@ -37,16 +36,6 @@ df["probability_score"] = df.apply(calculate_score, axis=1)
 # Sort by score descending
 df = df.sort_values("probability_score", ascending=False)
 
-# ----------------------------
-# Visualize Distribution
-# ----------------------------
-st.subheader("Probability Score Distribution")
-fig, ax = plt.subplots(figsize=(10, 4))
-ax.hist(df["probability_score"], bins=20, color='skyblue', edgecolor='black')
-ax.set_xlabel("Probability Score")
-ax.set_ylabel("Number of Leads")
-ax.set_title("Histogram of Probability Scores")
-st.pyplot(fig)
 
 # ----------------------------
 # Ranked Leads Table
